@@ -1,0 +1,214 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Error 404: Page Not Found</title>
+    <meta charset="utf-8" />
+        <meta content="width=device-width, initial-scale=1.0, maximum-scale=6" name="viewport">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta http-equiv="x-dns-prefetch-control" content="on" />
+    <meta content="telephone=no" name="format-detection" />
+    <link rel="stylesheet" href="https://uat.millenniumhotels.com/mhb-media/static-files/content/v220929165327/assets/style/default-all.css?rev=0464d131d62e4c1f96a0b6c090652296&hash=ECF6683C17690E6D3CBA4E87E7267E98"/>
+
+    
+    
+
+    <script>
+        window.logedin = false;
+        window.cartNumber = 0;
+    </script>
+    <script>var console = console || { log: function () { return; }, LOG: function () { return; } }</script>
+        <!-- None Production -->
+    <script>
+        window.pageData = { rootData: {} };
+        window.pageData.navigation = {
+            "items": [{
+                "label": "Our Hotels",
+                "url": "/en/hotels/"
+            }, {
+                "label": "Offers",
+                "url": "/en/offers/"
+            }, {
+                "label": "Venues",
+                "url": "/en/meetings-events/"
+            }, {
+                "label": "account.manager_booking",
+                "url": "/en/my-millennium/my-profile/my-history/booking-on-millenniumhotels-com/"
+            }]
+        };
+        window.pageData.user = {
+            "links": {
+                "profile": "/en/my-millennium/scratchpad/",
+                "signUp": "/en/my-millennium/sign-up/",
+                "signIn": "/en/my-millennium/sign-in/"
+            }
+        };
+        window.pageData.appConfig = {
+         "links": {
+            "appleStoreUrl":"https://www.millenniumhotels.com/MarketBrandAppQR.aspx",
+            "appleProtocol": "mhr://",
+            "androidStoreUrl": "https://www.millenniumhotels.com/MarketBrandAppQR.aspx",
+            "androidProtocol": "mhr://"
+        }
+    };
+    </script>
+    <script type="text/javascript">
+        var Adobe_Data = {
+            'Data_Layer': {
+                'users': {
+                    'MembershipID': 'No',
+                    'Login Status': 'No',
+                    'Loyalty Status': 'No',
+                    'Loyalty Tier': 'Not a member'
+                },
+                'Geo': {
+                    'Region': 'Global',
+                    'Country': '',
+                    'HotelID': '',
+                    'Booking Engine': 'No'
+                },
+                'Hotel': {
+                    'HotelID': []
+                },
+                "MP": [],
+                "Gifts": [],
+                'Page': {
+                    'Section': 'Page not found'
+                }
+
+            }
+        };
+    </script>
+</head>
+<body lang="en" data-isipad="false">
+    <div class="global-wrapper">
+        <div class="popupRegion"></div>
+
+        <div id="navbar-tpl" data-component="navbar" data-logo-expand="true" class="navbar">
+
+            <div class="menu-wrapper" style="touch-action: pan-x pan-y; -webkit-user-select: none; -webkit-user-drag: none; -webkit-tap-highlight-color: #000000; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+                <a href="/">
+                    <div class="logo">
+                        <span class="icon-icon_A001"></span>
+                    </div>
+                </a>
+                
+
+            <div data-component="top-search" class="top-search-wrapper" data-search="{&quot;topLocations&quot;:[{&quot;id&quot;:&quot;f7cb69df-0e07-4f6f-949b-7925b5d36abd&quot;,&quot;url&quot;:&quot;/en/los-angeles/&quot;,&quot;name&quot;:&quot;Los Angeles&quot;},{&quot;id&quot;:&quot;d557ef6b-4a96-4ae6-a8d0-68ee01f943fe&quot;,&quot;url&quot;:&quot;/en/london/&quot;,&quot;name&quot;:&quot;London&quot;},{&quot;id&quot;:&quot;091a79ec-41b5-4b18-aefd-de27e6834cf4&quot;,&quot;url&quot;:&quot;/en/dubai/&quot;,&quot;name&quot;:&quot;Dubai&quot;},{&quot;id&quot;:&quot;533a0350-1058-493f-92eb-75ff77fe7fbf&quot;,&quot;url&quot;:&quot;/en/singapore/&quot;,&quot;name&quot;:&quot;Singapore&quot;},{&quot;id&quot;:&quot;ea89da62-6207-4bc4-82d8-7a0a8f7853c5&quot;,&quot;url&quot;:&quot;/en/beijing/&quot;,&quot;name&quot;:&quot;Beijing&quot;},{&quot;id&quot;:&quot;b58dc5d3-3bb7-44f4-9269-571daae77ad2&quot;,&quot;url&quot;:&quot;/en/auckland/&quot;,&quot;name&quot;:&quot;Auckland&quot;}],&quot;topHotels&quot;:[{&quot;id&quot;:&quot;0089d909-4355-4659-bfe5-b569875d2470&quot;,&quot;url&quot;:&quot;/en/los-angeles/millennium-biltmore-hotel-los-angeles/&quot;,&quot;name&quot;:&quot;The Biltmore Los Angeles&quot;,&quot;image&quot;:&quot;&quot;},{&quot;id&quot;:&quot;63b9f50b-7d2e-459b-8e39-4e5767390230&quot;,&quot;url&quot;:&quot;/en/london/millennium-gloucester-hotel-london-kensington/&quot;,&quot;name&quot;:&quot;Millennium Hotel and Conference Centre Gloucester London&quot;,&quot;image&quot;:&quot;https://uat.millenniumhotels.com/mhb-media/regions/europe/uk/london/millenniumgloucesterhotellondonkensington/generic/images/deluxe-king-room.jpg?rev=fde2ec2f950e4e6d8744786c8a4ce82e&quot;},{&quot;id&quot;:&quot;cf0a9f28-ba9b-4a50-8111-d3ecc2d0ac16&quot;,&quot;url&quot;:&quot;/en/new-york/millennium-hotel-broadway-times-square/&quot;,&quot;name&quot;:&quot;Millennium Hotel Broadway Times Square&quot;,&quot;image&quot;:&quot;https://uat.millenniumhotels.com/mhb-media/images/13507-broadway-hotel/hero/broadway-lobby.png?rev=4f433f33293a433f8a6a15310d6dd6b7&quot;}]}"></div>
+        </div>
+        <div data-component="booking-bar" data-expand="true" class="booking-bar"></div>
+        <div class="mobile-components-wrapper" data-currencies="[{&quot;code&quot;:&quot;USD&quot;,&quot;name&quot;:&quot;US Dollar&quot;,&quot;mark&quot;:&quot;$&quot;,&quot;selected&quot;:false,&quot;order&quot;:4},{&quot;code&quot;:&quot;GBP&quot;,&quot;name&quot;:&quot;Pound Sterling&quot;,&quot;mark&quot;:&quot;￡&quot;,&quot;selected&quot;:false,&quot;order&quot;:3},{&quot;code&quot;:&quot;EUR&quot;,&quot;name&quot;:&quot;Euro Member Countries, Euro&quot;,&quot;mark&quot;:&quot;€&quot;,&quot;selected&quot;:false,&quot;order&quot;:2},{&quot;code&quot;:&quot;CNY&quot;,&quot;name&quot;:&quot;China, Yuan Renminbi&quot;,&quot;mark&quot;:&quot;￥&quot;,&quot;selected&quot;:false,&quot;order&quot;:1},{&quot;code&quot;:&quot;AED&quot;,&quot;name&quot;:&quot;United Arab Emirates, Dirhams&quot;,&quot;mark&quot;:&quot;AED&quot;,&quot;selected&quot;:false,&quot;order&quot;:0},{&quot;code&quot;:&quot;AUD&quot;,&quot;name&quot;:&quot;Australia, Dollars&quot;,&quot;mark&quot;:&quot;AUD&quot;,&quot;selected&quot;:false,&quot;order&quot;:0},{&quot;code&quot;:&quot;BRL&quot;,&quot;name&quot;:&quot;Brazilian Real&quot;,&quot;mark&quot;:&quot;BRL&quot;,&quot;selected&quot;:false,&quot;order&quot;:0},{&quot;code&quot;:&quot;CAD&quot;,&quot;name&quot;:&quot;Canada, Dollars&quot;,&quot;mark&quot;:&quot;CAD&quot;,&quot;selected&quot;:false,&quot;order&quot;:0},{&quot;code&quot;:&quot;CHF&quot;,&quot;name&quot;:&quot;Switzerland&quot;,&quot;mark&quot;:&quot;CHF&quot;,&quot;selected&quot;:false,&quot;order&quot;:0},{&quot;code&quot;:&quot;GEL&quot;,&quot;name&quot;:&quot;Georgian Lari&quot;,&quot;mark&quot;:&quot;GEL&quot;,&quot;selected&quot;:false,&quot;order&quot;:0},{&quot;code&quot;:&quot;HKD&quot;,&quot;name&quot;:&quot;Hong Kong, Dollars&quot;,&quot;mark&quot;:&quot;HK$&quot;,&quot;selected&quot;:false,&quot;order&quot;:0},{&quot;code&quot;:&quot;IDR&quot;,&quot;name&quot;:&quot;Indonesia, Rupiahs&quot;,&quot;mark&quot;:&quot;IDR&quot;,&quot;selected&quot;:false,&quot;order&quot;:0},{&quot;code&quot;:&quot;INR&quot;,&quot;name&quot;:&quot;Indian Rupee Rate&quot;,&quot;mark&quot;:&quot;INR&quot;,&quot;selected&quot;:false,&quot;order&quot;:0},{&quot;code&quot;:&quot;IQD&quot;,&quot;name&quot;:&quot;Iraq, Dinars&quot;,&quot;mark&quot;:&quot;IQD&quot;,&quot;selected&quot;:false,&quot;order&quot;:0},{&quot;code&quot;:&quot;JOD&quot;,&quot;name&quot;:&quot;Jordan, Dinars&quot;,&quot;mark&quot;:&quot;JOD&quot;,&quot;selected&quot;:false,&quot;order&quot;:0},{&quot;code&quot;:&quot;JPY&quot;,&quot;name&quot;:&quot;Japan, Yen&quot;,&quot;mark&quot;:&quot;JPY&quot;,&quot;selected&quot;:false,&quot;order&quot;:0},{&quot;code&quot;:&quot;KRW&quot;,&quot;name&quot;:&quot;South Korean Won&quot;,&quot;mark&quot;:&quot;KRW&quot;,&quot;selected&quot;:false,&quot;order&quot;:0},{&quot;code&quot;:&quot;KWD&quot;,&quot;name&quot;:&quot;Kuwait, Dinars&quot;,&quot;mark&quot;:&quot;KWD&quot;,&quot;selected&quot;:false,&quot;order&quot;:0},{&quot;code&quot;:&quot;MYR&quot;,&quot;name&quot;:&quot;Malaysia, Ringgits&quot;,&quot;mark&quot;:&quot;MYR&quot;,&quot;selected&quot;:false,&quot;order&quot;:0},{&quot;code&quot;:&quot;NZD&quot;,&quot;name&quot;:&quot;New Zealand, Dollars&quot;,&quot;mark&quot;:&quot;NZD&quot;,&quot;selected&quot;:false,&quot;order&quot;:0},{&quot;code&quot;:&quot;OMR&quot;,&quot;name&quot;:&quot;Oman, Rials&quot;,&quot;mark&quot;:&quot;OMR&quot;,&quot;selected&quot;:false,&quot;order&quot;:0},{&quot;code&quot;:&quot;PHP&quot;,&quot;name&quot;:&quot;Philippines, Pesos&quot;,&quot;mark&quot;:&quot;PHP&quot;,&quot;selected&quot;:false,&quot;order&quot;:0},{&quot;code&quot;:&quot;QAR&quot;,&quot;name&quot;:&quot;Qatar, Rials&quot;,&quot;mark&quot;:&quot;QAR&quot;,&quot;selected&quot;:false,&quot;order&quot;:0},{&quot;code&quot;:&quot;SAR&quot;,&quot;name&quot;:&quot;Saudi Riyal&quot;,&quot;mark&quot;:&quot;SAR&quot;,&quot;selected&quot;:false,&quot;order&quot;:0},{&quot;code&quot;:&quot;SEK&quot;,&quot;name&quot;:&quot;Swedish Krona&quot;,&quot;mark&quot;:&quot;SEK&quot;,&quot;selected&quot;:false,&quot;order&quot;:0},{&quot;code&quot;:&quot;SGD&quot;,&quot;name&quot;:&quot;Singapore, Dollars&quot;,&quot;mark&quot;:&quot;SG$&quot;,&quot;selected&quot;:true,&quot;order&quot;:0},{&quot;code&quot;:&quot;THB&quot;,&quot;name&quot;:&quot;Thailand, Baht&quot;,&quot;mark&quot;:&quot;THB&quot;,&quot;selected&quot;:false,&quot;order&quot;:0},{&quot;code&quot;:&quot;TWD&quot;,&quot;name&quot;:&quot;Taiwan, New Dollars&quot;,&quot;mark&quot;:&quot;TWD&quot;,&quot;selected&quot;:false,&quot;order&quot;:0}]" data-languages="[{&quot;code&quot;:&quot;ar-SA&quot;,&quot;displaycode&quot;:&quot;ar&quot;,&quot;name&quot;:&quot;العربية&quot;,&quot;selected&quot;:false},{&quot;code&quot;:&quot;en&quot;,&quot;displaycode&quot;:&quot;en&quot;,&quot;name&quot;:&quot;English&quot;,&quot;selected&quot;:true},{&quot;code&quot;:&quot;es-ES&quot;,&quot;displaycode&quot;:&quot;es&quot;,&quot;name&quot;:&quot;Espa&#241;ol&quot;,&quot;selected&quot;:false},{&quot;code&quot;:&quot;fr-FR&quot;,&quot;displaycode&quot;:&quot;fr&quot;,&quot;name&quot;:&quot;Fran&#231;ais&quot;,&quot;selected&quot;:false},{&quot;code&quot;:&quot;it-IT&quot;,&quot;displaycode&quot;:&quot;it&quot;,&quot;name&quot;:&quot;Italiano&quot;,&quot;selected&quot;:false},{&quot;code&quot;:&quot;id-ID&quot;,&quot;displaycode&quot;:&quot;id&quot;,&quot;name&quot;:&quot;Bahasa ID&quot;,&quot;selected&quot;:false},{&quot;code&quot;:&quot;zh-CN&quot;,&quot;displaycode&quot;:&quot;zh-CN&quot;,&quot;name&quot;:&quot;简体中文&quot;,&quot;selected&quot;:false},{&quot;code&quot;:&quot;zh-TW&quot;,&quot;displaycode&quot;:&quot;zh-TW&quot;,&quot;name&quot;:&quot;繁體中文&quot;,&quot;selected&quot;:false},{&quot;code&quot;:&quot;ja-JP&quot;,&quot;displaycode&quot;:&quot;ja&quot;,&quot;name&quot;:&quot;日本語&quot;,&quot;selected&quot;:false},{&quot;code&quot;:&quot;ko-KR&quot;,&quot;displaycode&quot;:&quot;kr&quot;,&quot;name&quot;:&quot;한국어&quot;,&quot;selected&quot;:false}]">
+            <div data-mobile-nav>
+
+
+
+            </div>
+        </div>
+        <div class="back-to-top">
+            <div class="wgt-backtotop">
+                <a class="backtotop-button" href="#top" role="button"><span class="icon-icon_B022"></span></a>
+            </div>
+        </div>
+        <div class="main-wrapper">
+            <div class="global-404-page">
+    <h2>We're sorry - page not available.</h2>
+    <div class="tpl-splitline"></div>
+    <div class="content-404">
+        <div class="error-text">
+            <p>We regret to inform you that our website is temporarily unavailable due to a technical issue currently being addressed by our technical team.
+            <br>
+            <br>
+            For assistance with bookings or reservation-related enquiries, please contact us at <a href="mymillennium@millenniumhotels.com">mymillennium@millenniumhotels.com</a>. Our team is on hand to assist you and will be happy to connect you with the relevant hotel team where necessary.
+            <br>
+            <br>
+            We sincerely apologise for the inconvenience and appreciate your patience and understanding as we work to restore full functionality as swiftly as possible.</p>
+        </div>
+    </div>
+    <div style="display:none">
+        SG
+    </div>
+</div>
+
+
+
+            
+
+
+<footer id="main-footer-wrapper" class="">
+    <nav></nav>
+    <section>
+            <div class="clearfix header-box">
+                <div class="logo-region"><img alt="Millennium" src="https://uat.millenniumhotels.com/mhb-media/static-files/assets/img/millennium.svg?rev=47ad74644a634c5e960da82626d0e2eb&amp;hash=1BBB2C5EC40C47A6B2F1337342E880D1" class="hotel-logo"></div>
+                
+                <div class="bd logo-region relatice">
+                    <div class="bd-container">
+                        <h3 class="follow-title">FOLLOW US</h3>
+                        <div class="socialmedia-footer wgt-socialmedia">
+                                        <a href="https://www.facebook.com/MHotelAlDanabyM" target="_blank" title="Facebook">
+                                            <span class="icon-icon_B040"></span>
+                                        </a>
+                                        <a href="https://www.instagram.com/millennium/" target="_blank" title="Instagram">
+                                            <span class="icon-icon_B044"></span>
+                                        </a>
+                                        <a href="https://mobile.twitter.com/MHotelAlDanabyM" target="_blank" title="Twitter">
+                                            <span class="icon-icon_B042"></span>
+                                        </a>
+                                        <a href="https://passport.weibo.com/visitor/visitor?entry=miniblog&amp;a=enter&amp;url=http%3A%2F%2Fweibo.com%2Fmillenniumhotels&amp;domain=.weibo.com&amp;ua=php-sso_sdk_client-0.6.16&amp;_rand=1465984924.1406" target="_blank" title="Weibo">
+                                            <span class="icon-icon_B043"></span>
+                                        </a>
+
+                        </div>
+                        <div class="sel-a">
+                            <h3 class="sel-a-title">Newsletter</h3>
+                            <div class="sub-a">
+                                <label for="subscribe_input" class="floating-label">
+                                    Subscribe to our Newsletter
+                                </label>
+                                <input id="subscribe_input">
+                                <a href="javascript:void(0);" data-btn="subsBtn" class="subs-btn" role="button" style="background-color: rgb(159, 125, 35);">SUBSCRIBE</a>
+                            </div>
+                            <div class="subs_checkbox">
+                                <i data-check="checkbox" class="checkbox"></i>
+                                <p>I would like to receive the global e-newsletter containing offers and updates about your products and services, by e-mail. These communications will come from M & C Reservations Services Limited as a subsidiary of the Millennium & Copthorne Hotels Limited group of companies.</p>
+                            </div>
+                            <div data-tick="status" class="subs_checkbox_status">
+                                <p>Please tick the consent box below to submit your email address</p>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            
+
+        
+    </section>
+</footer>
+        </div>
+    </div>
+    <div class="hbs-templates hidden">
+        <div class="navbar-tpl"></div>
+    </div>
+    
+    
+    
+    
+    <script src="https://uat.millenniumhotels.com/mhb-media/static-files/assets/lib/jquery_min.js?rev=7cdc376ea7eb49759bbfc1253c9d75a6&hash=8DA93D48585A88533E34553D36EB2D6E"></script>
+<script src="https://uat.millenniumhotels.com/mhb-media/static-files/content/i18n/v220929165327/en.js?rev=f4e4b79019e041dd95a79116206ec8fe&hash=7FB30AA6C8DE15632CA31B454D3DD876"></script>
+<script src="https://uat.millenniumhotels.com/mhb-media/static-files/content/i18n/v220929165327/en.js?rev=f4e4b79019e041dd95a79116206ec8fe&hash=7FB30AA6C8DE15632CA31B454D3DD876"></script>
+<script src="https://uat.millenniumhotels.com/mhb-media/static-files/content/v220929165327/bundle/bundle.js?rev=7685bb71ad6a401eabbb236360cd36e0&hash=1BF072085AC5F6A783722638DE35C8A7"></script>
+
+        <script>
+        if (typeof _satellite != "undefined") {
+            _satellite.pageBottom();
+        }
+    </script>
+
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"rayId":"9637d65af9258a13","serverTiming":{"name":{"cfExtPri":true,"cfEdge":true,"cfOrigin":true,"cfL4":true,"cfSpeedBrain":true,"cfCacheStatus":true}},"version":"2025.7.0","token":"e53522f8202b4b4caaafdd6562dbdfbd"}' crossorigin="anonymous"></script>
+</body>
+</html>
+
